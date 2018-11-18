@@ -27,16 +27,10 @@ import StyledMetaAppComponent from "./styledComponents/StyledMetaAppComponent";
 class App extends Component {
   render() {
     return (
-    // <BackgroundSlideshow 
-    //   images={[ image1, image2, image3, image4, image5, image6 ]} 
-    //   animatinDelay={2000}
-    //   disableClick={true}
-    //   >
+
     <StyledMetaAppComponent  >
-      {/* <NavigationBarContainer /> */}
       <Routes />
     </StyledMetaAppComponent>
-    // </BackgroundSlideshow>
     );
   }
 }

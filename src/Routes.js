@@ -1,6 +1,6 @@
 // Packages
 import React from "react";
-import { Route, Switch } from "react-router-dom";
+import { HashRouter, Route, Switch } from "react-router-dom";
 
 // Internal modules
 
@@ -19,12 +19,13 @@ import GeneralPageContainer from "./containers/GeneralPageContainer";
 const Routes = props => {
 
   return (
-    <Switch>
-      <AppliedRoute path="/" exact component={GeneralPageContainer} />
-      <AppliedRoute path="/about" exact component={GeneralPageContainer} />
-      <AppliedRoute path="/work" exact component={Work} />
-      {/* <Route component={NotFound} /> */}
-    </Switch>
+    <HashRouter>
+      <Switch>
+        <Route path="/" exact component={GeneralPageContainer} />
+        <Route path="/about" exact component={GeneralPageContainer} />
+        <Route path="/work" exact component={Work} />
+      </Switch>
+    </HashRouter>
   );
 };
 
