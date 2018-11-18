@@ -13,7 +13,9 @@ import App from './App';
 import './index.css';
 
 ReactDOM.render(
-        <App />, 
+    <Router basename={process.env.PUBLIC_URL}>
+        <App />
+    </Router> , 
     document.getElementById('root')
 );
 
@@ -22,5 +24,3 @@ ReactDOM.render(
 // Learn more about service workers: http://bit.ly/CRA-PWA
 // serviceWorker.unregister();
 
-// <Router basename={process.env.PUBLIC_URL}>
-// </Router>
