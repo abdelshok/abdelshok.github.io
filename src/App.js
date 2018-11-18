@@ -23,11 +23,9 @@ import StyledMetaAppComponent from "./styledComponents/StyledMetaAppComponent";
 
 // Constants
 
-
 class App extends Component {
   render() {
     return (
-
     <StyledMetaAppComponent  >
       <Routes />
     </StyledMetaAppComponent>
