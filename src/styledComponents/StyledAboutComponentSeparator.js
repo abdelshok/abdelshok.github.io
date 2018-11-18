@@ -6,6 +6,7 @@ import styled from "styled-components";
 
 const StyledAboutComponentSeparator = styled.div`
   height: 100%;
+  position: relative;
   @media (max-width: 990px) {
     margin-bottom: 40px;
     text-align: left; 

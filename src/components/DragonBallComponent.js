@@ -29,11 +29,10 @@ const TechnologyList = styled(StyledAboutParagraph)`
     font-style: bold;
     line-height: 1em;
     width: 250px;
+    height: 30px;
     text-align: center;
     margin-left: auto;
     margin-right: auto;
-    width: 300px;
-
 `;
 
 const CenterText = {
@@ -53,8 +52,8 @@ const DragonBallComponent = () => (
     <StyledWorkProjectImage src={TestImage} />
     <StyledWorkProjectTitle> The Last Warrior </StyledWorkProjectTitle>
     <TechnologyList> React / NodeJS / Express / PhaserJS </TechnologyList>
-    <ProjectDescription> The Last Warrior is an online fighting game that anybody can run in their browser. Players commands are sent to the server to process in the game engine. Designed with increasing difficulty: the velocity of bullets, the rate of monster appearance and type of monster change depending on the player damage and score. Honestly, I prefer Naruto. </ProjectDescription>
-    <a href="https://github.com/abdelshok/The-Last-Warrior" >
+    <ProjectDescription> The Last Warrior is a Dragon Ball Z based horizontal shooter game I created for a hackathon. Players commands are sent to the server to process in the game engine. Designed with increasing difficulty: enemies are designed with their own movement behavior and firing mechanisms,  rate of monster and type of monster appearance chain depending on player damage and score. Naruto is better though. </ProjectDescription>
+    <a href="https://github.com/abdelshok/The-Last-Warrior" target="blank">
         <StyledWorkProjectGithubLogo src={GithubLogo} />
     </a>
   </StyledWorkProjectContainer>

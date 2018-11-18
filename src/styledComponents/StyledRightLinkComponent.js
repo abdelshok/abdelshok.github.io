@@ -10,6 +10,19 @@ const StyledRightLinkComponent = styled.a`
   display: inline; 
   font-family: futura-pt, Roboto;
   margin-right: 20px;
+  color: white;
+  &:hover {
+    text-decoration: none;
+    color: white;
+  }
+  &:active {
+    text-decoration: none;
+    color: white;
+  }
+  &:visited {
+    text-decoration: none;
+    color: white;
+  }
 `;
 
 export default StyledRightLinkComponent;

@@ -29,11 +29,10 @@ const TechnologyList = styled(StyledAboutParagraph)`
     font-style: bold;
     line-height: 1em;
     width: 250px;
+    height: 30px;
     text-align: center;
     margin-left: auto;
     margin-right: auto;
-    width: 300px;
-
 `;
 
 const CenterText = {
@@ -53,8 +52,8 @@ const ArtShopComponent = () => (
     <StyledWorkProjectImage src={TestImage} />
     <StyledWorkProjectTitle> The Art Shop </StyledWorkProjectTitle>
     <TechnologyList> React / NodeJS / Express / Sequelize </TechnologyList>
-    <ProjectDescription> In a team of four, we created this e-commerce website selling Abstract art from the ground up. This Amazon-like project was a great way to be introduced to React, NodeJS, Express, and Sequelize. The webpage allows users to search through available artworks, filter through them, login/signup, add them to a cart, and checkout. </ProjectDescription>
-    <a href="https://github.com/abdelshok/graceShopper" >
+    <ProjectDescription> Created this e-commerce website selling Abstract art from the ground up in a team of four at the bootcamp I attended. This Amazon-like project was a great way to be introduced to React, NodeJS, Express, and Sequelize. The webpage allows users to search through available artworks, filter through them, login/signup, add items to a cart, and checkout using a credit card. </ProjectDescription>
+    <a href="https://github.com/abdelshok/graceShopper" target="blank">
         <StyledWorkProjectGithubLogo src={GithubLogo} />
     </a>
   </StyledWorkProjectContainer>

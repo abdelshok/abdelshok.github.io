@@ -23,7 +23,6 @@ class RightNavigationBarContainerComponent extends Component {
        <StyledRightHeaderLinkContainer> 
            <Link to="/work" style = {LinkStyling} > <StyledRightLinkComponent> + Projects </StyledRightLinkComponent> </Link>
            <Link to="/about" style = {LinkStyling} > <StyledRightLinkComponent> About / Contact </StyledRightLinkComponent> </Link>
-           <StyledRightLinkComponent> Talks </StyledRightLinkComponent>
        </StyledRightHeaderLinkContainer>
       );
     }

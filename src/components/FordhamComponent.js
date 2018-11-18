@@ -29,11 +29,10 @@ const TechnologyList = styled(StyledAboutParagraph)`
     font-style: bold;
     line-height: 1em;
     width: 250px;
+    height: 30px;
     text-align: center;
     margin-left: auto;
     margin-right: auto;
-    width: 300px;
-
 `;
 
 const CenterText = {
@@ -54,9 +53,9 @@ const FordhamComponent = () => (
   <StyledWorkProjectContainer>
     <StyledWorkProjectImage src={TestImage} />
     <StyledWorkProjectTitle> Fordham Forum </StyledWorkProjectTitle>
-    <TechnologyList> React / NodeJS / Express / Sequelize / AWS </TechnologyList>
-    <ProjectDescription> Lead Software Engineer. Currently collaborating with Dr. Lyons, Director of Computer Science at Fordham, and a team of five to create a social platform where graduate and undergraduate Fordham students can post notes, provide each other help with homework and exams, and connect with the rest of the community for advice. </ProjectDescription>
-    <a href="" > 
+    <TechnologyList> React / NodeJS / Express / Sequelize  AWS </TechnologyList>
+    <ProjectDescription> Currently leading a team of five in collaboration with Dr. Lyons, Director of CS at Fordham, to create a social platform where graduate and undergraduate Fordham students can share their own resources, such as course notes and solutions, share their experience at Fordham, and connect with the rest of the community for advice on topics such as job hunting and renting. </ProjectDescription>
+    <a href="" target="blank"> 
         <StyledWorkProjectGithubLogo src={GithubLogo} />
     </a>
   </StyledWorkProjectContainer>

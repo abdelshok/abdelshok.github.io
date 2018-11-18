@@ -42,7 +42,7 @@ const FollowMeComponent = () => (
   <div style={CenterSkills} > 
         <StyledAboutParagraphTitle >  Follow Me </StyledAboutParagraphTitle>
         <LinkText>
-        <StyledLinkComponent href="https://www.linkedin.com/in/abdelazizshokair/"> LinkedIn</StyledLinkComponent> / <StyledLinkComponent href="https://github.com/abdelshok">Github</StyledLinkComponent> / <StyledLinkComponent href="https://stackoverflow.com/users/7269511/abdel-aziz-shokair">Stack Overflow</StyledLinkComponent> / <StyledLinkComponent href="https://soundcloud.com/abdelshok">Soundcloud</StyledLinkComponent>
+        <StyledLinkComponent href="https://www.linkedin.com/in/abdelazizshokair/" target="blank"> LinkedIn</StyledLinkComponent> / <StyledLinkComponent href="https://github.com/abdelshok" target="blank">Github</StyledLinkComponent> / <StyledLinkComponent href="https://stackoverflow.com/users/7269511/abdel-aziz-shokair" target="blank"> Stack Overflow</StyledLinkComponent> / <StyledLinkComponent href="https://soundcloud.com/abdelshok" target="blank">Soundcloud</StyledLinkComponent>
         </LinkText>
   </div>
 );

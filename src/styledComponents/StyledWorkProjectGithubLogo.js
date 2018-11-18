@@ -9,7 +9,7 @@ const StyledWorkProjectGithubLogo = styled.img`
   margin-left: auto;
   margin-right: auto;
   position: absolute;
-  bottom: 10;
+  bottom: 30;
   left: 50%;
   right: 50%;
 `;

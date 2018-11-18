@@ -30,11 +30,10 @@ const TechnologyList = styled(StyledAboutParagraph)`
     font-style: bold;
     line-height: 1.1em;
     width: 250px;
+    height: 30px;s
     text-align: center;
     margin-left: auto;
     margin-right: auto;
-    width: 300px;
-
 `;
 
 const CenterText = {
@@ -56,8 +55,8 @@ const PoliticsAjarComponent = () => (
   <StyledWorkProjectContainer>
     <StyledWorkProjectImage src={TestImage} />
     <StyledWorkProjectTitle> Politics Ajar </StyledWorkProjectTitle>
-    <TechnologyList> React / NodeJS / Express / Sequelize <br/> D3 </TechnologyList>
-    <ProjectDescription> Proof of concept for a political application that allows users to determine their ideal candidates in the House of Reps and Senate based on selected social issues. Currently uses a slice of recent votes from March 2017. Users select social issues such as the Environment, Immigration, and Taxes before receiving a personalized list of politicians that align with their views. </ProjectDescription>
+    <TechnologyList> React / NodeJS / Express / Sequelize / D3 </TechnologyList>
+    <ProjectDescription> Proof of concept for a political application that allows users to determine their ideal candidates in the House of Representatives and Senate based on selected social issues. Currently uses a slice of recent votes from March 2017. Users select social issues such as the Environment, Immigration, and Taxes before receiving a personalized list of politicians that align with their views. </ProjectDescription>
     <a href="https://github.com/robschroeder333/Politics-AJAR" target="blank">
         <StyledWorkProjectGithubLogo src={GithubLogo} />
     </a>

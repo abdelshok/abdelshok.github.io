@@ -6,9 +6,8 @@ import React, { Component } from 'react';
 // Components
 import About from "./About";
 import Work from "./Work";
-import LandingPage from "./LandingPage"
-
-
+import LandingPage from "./LandingPage";
+import ContactMe from "./ContactMe";
 
 class GeneralPageContainer extends Component {
     render() {
@@ -17,6 +16,7 @@ class GeneralPageContainer extends Component {
            <LandingPage />
            <About />
            <Work />
+           <ContactMe />
        </div>
       );
     }
