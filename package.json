@@ -24,7 +24,8 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "dev": "react-scripts start",
-    "start": "serve -s build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
     "heroku-postbuild": "npm run build"
   },
   "eslintConfig": {

@@ -4,12 +4,12 @@ self.__precacheManifest = [
     "url": "/abdelshok.github.io/static/media/test2.b1564e71.png"
   },
   {
-    "revision": "88aae247d8d62feaf8f0",
+    "revision": "55b396fdee8e37bb4efd",
     "url": "/abdelshok.github.io/static/css/main.9b5aab21.chunk.css"
   },
   {
-    "revision": "05e0af882df51f454d02",
-    "url": "/abdelshok.github.io/static/js/1.05e0af88.chunk.js"
+    "revision": "1801e38c726428ba4dbb",
+    "url": "/abdelshok.github.io/static/js/1.1801e38c.chunk.js"
   },
   {
     "revision": "2348f89f147d3c506fc6",
@@ -56,8 +56,8 @@ self.__precacheManifest = [
     "url": "/abdelshok.github.io/static/media/Fordham.2af1178b.png"
   },
   {
-    "revision": "88aae247d8d62feaf8f0",
-    "url": "/abdelshok.github.io/static/js/main.88aae247.chunk.js"
+    "revision": "55b396fdee8e37bb4efd",
+    "url": "/abdelshok.github.io/static/js/main.55b396fd.chunk.js"
   },
   {
     "revision": "e0e600ff6525e37912c6ca4ec6c82e9d",
@@ -112,7 +112,7 @@ self.__precacheManifest = [
     "url": "/abdelshok.github.io/static/media/5.76a613b1.jpg"
   },
   {
-    "revision": "c221a8f472ca35045ee9bffddba15166",
+    "revision": "6326bcdf3c23e9c172e1614e49b487da",
     "url": "/abdelshok.github.io/index.html"
   }
 ];
