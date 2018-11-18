@@ -1,6 +1,6 @@
 // Packages
 import React from "react";
-import { HashRouter, Route, Switch } from "react-router-dom";
+import { HashRouter, Route, Switch, Router } from "react-router-dom";
 
 // Internal modules
 
@@ -13,11 +13,10 @@ import GeneralPageContainer from "./containers/GeneralPageContainer";
 
 
 const Routes = props => {
-
   return (
-      <Switch>
+      <Router>
         <Route path="/" exact component={GeneralPageContainer} />
-      </Switch>
+      </Router>
   );
 };
 
