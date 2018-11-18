@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "2af1178b02c293163f49ccce94705c57",
-    "url": "/abdelshok.github.io/static/media/Fordham.2af1178b.png"
+    "revision": "b1564e71d26c1a6d313f5ad1983bb274",
+    "url": "/abdelshok.github.io/static/media/test2.b1564e71.png"
   },
   {
-    "revision": "1312cdf670e6faa3ae19",
-    "url": "/abdelshok.github.io/static/css/main.f2259424.chunk.css"
+    "revision": "88aae247d8d62feaf8f0",
+    "url": "/abdelshok.github.io/static/css/main.9b5aab21.chunk.css"
   },
   {
-    "revision": "200bea546221be2ffc77",
-    "url": "/abdelshok.github.io/static/js/1.200bea54.chunk.js"
+    "revision": "05e0af882df51f454d02",
+    "url": "/abdelshok.github.io/static/js/1.05e0af88.chunk.js"
   },
   {
     "revision": "2348f89f147d3c506fc6",
@@ -22,14 +22,6 @@ self.__precacheManifest = [
   {
     "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
     "url": "/abdelshok.github.io/static/media/logo.5d5d9eef.svg"
-  },
-  {
-    "revision": "2ca1d99c1683045edf51053f39c320aa",
-    "url": "/abdelshok.github.io/static/media/le_faux_miroir.2ca1d99c.gif"
-  },
-  {
-    "revision": "b9c314b3e3c07318e5761477b3e81176",
-    "url": "/abdelshok.github.io/static/media/palms.b9c314b3.jpg"
   },
   {
     "revision": "f9074fffd52042b93f097aa3bd77b008",
@@ -60,12 +52,12 @@ self.__precacheManifest = [
     "url": "/abdelshok.github.io/static/media/test1.ade2a0b9.png"
   },
   {
-    "revision": "1312cdf670e6faa3ae19",
-    "url": "/abdelshok.github.io/static/js/main.1312cdf6.chunk.js"
+    "revision": "2af1178b02c293163f49ccce94705c57",
+    "url": "/abdelshok.github.io/static/media/Fordham.2af1178b.png"
   },
   {
-    "revision": "b1564e71d26c1a6d313f5ad1983bb274",
-    "url": "/abdelshok.github.io/static/media/test2.b1564e71.png"
+    "revision": "88aae247d8d62feaf8f0",
+    "url": "/abdelshok.github.io/static/js/main.88aae247.chunk.js"
   },
   {
     "revision": "e0e600ff6525e37912c6ca4ec6c82e9d",
@@ -92,6 +84,10 @@ self.__precacheManifest = [
     "url": "/abdelshok.github.io/static/media/Lightning.40f63f6d.png"
   },
   {
+    "revision": "2ca1d99c1683045edf51053f39c320aa",
+    "url": "/abdelshok.github.io/static/media/le_faux_miroir.2ca1d99c.gif"
+  },
+  {
     "revision": "089e55895b2f10f912a840afad90506f",
     "url": "/abdelshok.github.io/static/media/palms2.089e5589.jpg"
   },
@@ -116,7 +112,7 @@ self.__precacheManifest = [
     "url": "/abdelshok.github.io/static/media/5.76a613b1.jpg"
   },
   {
-    "revision": "9f576cf4183b2a2e452e2301ee9a4cc4",
+    "revision": "c221a8f472ca35045ee9bffddba15166",
     "url": "/abdelshok.github.io/index.html"
   }
 ];
