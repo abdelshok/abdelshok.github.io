@@ -4,7 +4,7 @@ First personal website I created, around 2018. I discovered some beautiful websi
 
 I've since deployed another personal website, which you can find [here](https://www.abdelshokair.tech).
 
-There is still value in this file though. I'm specifically talking about the reading list I included back then. If anyone is reading this at some point in time and wants to a few other books to their [tsundoku](https://en.wikipedia.org/wiki/Tsundoku), here it is.
+There is still value in this file though. I'm specifically talking about the reading list I included back then. If anyone is reading this at some point in time, anywhere in the world, and wants to a add a few other books to their [tsundoku](https://en.wikipedia.org/wiki/Tsundoku), here it is.
 
 In a way, these books can all tell you a little bit (or a lot) about me :)
 
