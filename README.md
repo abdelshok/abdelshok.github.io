@@ -1,4 +1,4 @@
-# Personal Website 2017
+# Personal Website 2018
 
 First personal website I created, around 2018. I discovered some beautiful websites on [awwwwards.com](awwwards.com) and used them as inspiration to create this minimalistic, dark, portfolio website, where I displayed my work, my reading list and the engineering projects that I worked on.
 
