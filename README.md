@@ -1,6 +1,6 @@
 # Personal Website 2018
 
-First personal website I created, around 2018. I discovered some beautiful websites on [awwwwards.com](awwwards.com) and used them as inspiration to create this minimalistic, dark, portfolio website, where I displayed my work, my reading list and the engineering projects that I worked on.
+First personal website I created, around 2018. I discovered some beautiful websites on [awwwwards.com](https://www.awwwards.com) and used them as inspiration to create this minimalistic, dark, portfolio website, where I displayed my work, my reading list and the engineering projects that I worked on.
 
 I've since deployed another personal website, which you can find [here](https://www.abdelshokair.tech).
 
