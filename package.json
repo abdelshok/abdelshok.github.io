@@ -21,7 +21,7 @@
     "reactstrap": "^6.5.0",
     "serve": "^10.1.1",
     "styled-components": "^4.0.3",
-    "three": "^0.98.0"
+    "three": "^0.125.0"
   },
   "scripts": {
     "test": "react-scripts test",
